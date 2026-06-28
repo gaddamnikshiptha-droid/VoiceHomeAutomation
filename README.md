@@ -26,3 +26,13 @@ A virtual smart home automation system that controls lights, fans, and air condi
 - ac off
 - status
 - exit
+- ## Screenshots
+
+### Light ON
+![Light ON](light_on.jpeg)
+
+### Fan ON
+![Fan ON](fan_on.jpeg)
+
+### AC ON
+![AC ON](ac_on.jpeg)
